@@ -1,4 +1,4 @@
-# BetterThanWindows-OS
+# FOS-OS-Implementation
 
 > A custom educational operating system focused on kernel design, memory management, multitasking, and system-level correctness.
 
